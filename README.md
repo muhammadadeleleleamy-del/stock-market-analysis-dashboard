@@ -36,14 +36,6 @@ A professional fintech-inspired stock market analysis web application built usin
 
 # 🖥️ Dashboard Preview
 
-## 📊 Main Dashboard
-
-<img width="100%" alt="Dashboard Preview" src="C:\Users\muham\OneDrive\Desktop\stock-analysis-app\Screenshot 2026-05-06 065307.png">
-<img width="100%" alt="Dashboard Preview" src="C:\Users\muham\OneDrive\Desktop\stock-analysis-app\Screenshot 2026-05-06 070003.png">
-<img width="100%" alt="Dashboard Preview" src="C:\Users\muham\OneDrive\Desktop\stock-analysis-app\Screenshot 2026-05-06 070020.png">
-<img width="100%" alt="Dashboard Preview" src="C:\Users\muham\OneDrive\Desktop\stock-analysis-app\Screenshot 2026-05-06 070110.png">
-<img width="100%" alt="Dashboard Preview" src="C:\Users\muham\OneDrive\Desktop\stock-analysis-app\Screenshot 2026-05-06 070131.png">
-
 ---
 
 # 🛠️ Technologies Used
@@ -80,7 +72,7 @@ stock-analysis-app/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-market-analysis-dashboard.git
+git clone https://github.com/muhammadadeleleleamy-del/stock-market-analysis-dashboard.git
 ```
 
 ---
@@ -224,7 +216,7 @@ git commit -m "Initial commit - Stock Market Dashboard"
 
 ```bash
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/stock-market-analysis-dashboard.git
+git remote add origin https://github.com/muhammadadeleleleamy-del/stock-market-analysis-dashboard.git
 git push -u origin main
 ```
 
@@ -239,3 +231,9 @@ This project was developed for educational, portfolio, and learning purposes.
 # ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
+
+---
+
+# 🎓 Supervision
+
+This project was developed under the supervision of **Dr. Mohammed Khalaf**.
