@@ -38,7 +38,11 @@ A professional fintech-inspired stock market analysis web application built usin
 
 ## 📊 Main Dashboard
 
-<img width="100%" alt="Dashboard Preview" src="https://via.placeholder.com/1200x600.png?text=Add+Your+Dashboard+Screenshot+Here">
+<img width="100%" alt="Dashboard Preview" src="C:\Users\muham\OneDrive\Desktop\stock-analysis-app\Screenshot 2026-05-06 065307.png">
+<img width="100%" alt="Dashboard Preview" src="C:\Users\muham\OneDrive\Desktop\stock-analysis-app\Screenshot 2026-05-06 070003.png">
+<img width="100%" alt="Dashboard Preview" src="C:\Users\muham\OneDrive\Desktop\stock-analysis-app\Screenshot 2026-05-06 070020.png">
+<img width="100%" alt="Dashboard Preview" src="C:\Users\muham\OneDrive\Desktop\stock-analysis-app\Screenshot 2026-05-06 070110.png">
+<img width="100%" alt="Dashboard Preview" src="C:\Users\muham\OneDrive\Desktop\stock-analysis-app\Screenshot 2026-05-06 070131.png">
 
 ---
 
